@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+openai
+duckduckgo_search
+beautifulsoup4
+requests
+python-dotenv
+python-jose
+langgraph
+authlib

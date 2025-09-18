@@ -1,0 +1,22 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore data folders
+data/
+logs/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+frontend/
+chats.sqlite3
+README.md
+venv/
