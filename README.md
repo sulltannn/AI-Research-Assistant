@@ -87,16 +87,16 @@ OPENAI_API_KEY=sk-...
 JWT_SECRET_KEY=change-me-in-prod
 CORS_ORIGINS=http://localhost:5173,http://localhost:3000
 
-# Optional search providers
+# search providers
 TAVILY_API_KEY=
 USE_TAVILY_ONLY=0
 
-# Optional Google OAuth
+# Google OAuth
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 GOOGLE_REDIRECT_URI=http://localhost:5173/google/callback
 
-# Optional SMTP for password reset
+# SMTP for password reset
 EMAIL_HOST=localhost
 EMAIL_PORT=587
 EMAIL_USER=
